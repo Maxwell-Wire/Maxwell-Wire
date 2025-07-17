@@ -1,9 +1,6 @@
+markdown
+
 ## Hi there 👋
-
-<!--
-**Maxwell-Wire/Maxwell-Wire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving and deploying deep learning models for image classification and data-driven decision-making.
 - 🌱 I’m currently learning advanced deployment techniques (FastAPI, Docker) and model optimization strategies.
@@ -13,15 +10,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [maxwellwire@gmail.com](mailto:maxwellwire@gmail.com) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once trained a model that could predict traffic sign classes with over 95% accuracy—and I did it on a budget laptop!
--->
+
+
 ---
 
 ## 🚀 Skills
 
-```text
 💻 Python        📊 Data Analysis    🤖 Machine Learning  
 🧠 Deep Learning  🛠 TensorFlow/Keras  📦 Model Deployment  
 📈 Visualization  🔬 Preprocessing     🌐 Flask / Streamlit / FastAPI
+
+---
 
 ## 📊 GitHub Stats
 
@@ -30,6 +29,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell-Wire&layout=compact&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Maxwell-Wire&theme=radical)](https://git.io/streak-stats)
+
+---
 
 ☕ Let’s Connect
 📧 **Email:** [maxwellwire@gmail.com](mailto:maxwellwire@gmail.com) 
