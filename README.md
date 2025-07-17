@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once trained a model that could predict traffic sign classes with over 95% accuracy—and I did it on a budget laptop!
 -->
+---
+
+## 🚀 Skills
+
+```text
+💻 Python        📊 Data Analysis    🤖 Machine Learning  
+🧠 Deep Learning  🛠 TensorFlow/Keras  📦 Model Deployment  
+📈 Visualization  🔬 Preprocessing     🌐 Flask / Streamlit / FastAPI
+
+
