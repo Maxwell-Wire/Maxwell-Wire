@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source machine learning or AI projects that solve real-world problems.
 - 🤔 I’m looking for help with finding remote data-related job opportunities and expanding my portfolio.
 - 💬 Ask me about Python, machine learning, deep neural networks, data preprocessing, and model deployment.
-- 📫 How to reach me: maxwellwire@gmail.com
+- 📫 How to reach me: [maxwellwire@gmail.com](mailto:maxwellwire@gmail.com) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once trained a model that could predict traffic sign classes with over 95% accuracy—and I did it on a budget laptop!
 -->
@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell-Wire&layout=compact&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Maxwell-Wire&theme=radical)](https://git.io/streak-stats)
+
+☕ Let’s Connect
+📧 **Email:** [maxwellwire@gmail.com](mailto:maxwellwire@gmail.com) 
