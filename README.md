@@ -23,5 +23,10 @@ Here are some ideas to get you started:
 🧠 Deep Learning  🛠 TensorFlow/Keras  📦 Model Deployment  
 📈 Visualization  🔬 Preprocessing     🌐 Flask / Streamlit / FastAPI
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxwell-Wire&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
+![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxwell-Wire&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell-Wire&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Maxwell-Wire&theme=radical)](https://git.io/streak-stats)
