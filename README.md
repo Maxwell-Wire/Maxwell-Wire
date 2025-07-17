@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 🧠 Deep Learning  🛠 TensorFlow/Keras  📦 Model Deployment  
 📈 Visualization  🔬 Preprocessing     🌐 Flask / Streamlit / FastAPI
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxwell-Wire&show_icons=true&theme=radical)
 
