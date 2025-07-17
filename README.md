@@ -9,7 +9,16 @@ markdown
 - 💬 Ask me about Python, machine learning, deep neural networks, data preprocessing, and model deployment.
 - 📫 How to reach me: [maxwellwire@gmail.com](mailto:maxwellwire@gmail.com) 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once trained a model that could predict traffic sign classes with over 95% accuracy—and I did it on a budget laptop!
+- ⚡ Fun fact: I’m driven by curiosity, growth, and a passion for solving real-world problems through code and data.
+  
+- ## 🌱 Currently Learning
+
+- Advanced Python & OOP  
+- Web frameworks (Flask, FastAPI)  
+- SQL and database integration  
+- Deploying ML models  
+- Building full-stack data apps with Streamlit
+
 
 
 ---
@@ -32,5 +41,7 @@ markdown
 
 ---
 
-☕ Let’s Connect
+## 📫 How to Reach Me
 📧 **Email:** [maxwellwire@gmail.com](mailto:maxwellwire@gmail.com) 
+🐱 GitHub: [Maxwell-Wire](https://github.com/Maxwell-Wire)  
+🌍 Portfolio (coming soon)
